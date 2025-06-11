@@ -6,7 +6,12 @@
 **TalentScout Hiring Assistant** is an AI-powered chatbot designed to streamline the candidate screening process for recruiters. Built with **Python** and **Streamlit**, this assistant gathers candidate information, dynamically generates technical questions based on the candidate’s skillset, and maintains context throughout the conversation. It provides a user-friendly interface that simulates an intelligent and engaging interview assistant.
 
 ---
+##  .env file 
 
+Replace the OPENROUTER API KEY with your openrouter api key 
+The api key can be created by logging into to openrouter and generating a secret key for project.
+
+---
 ##  Installation Instructions
 
 Follow these steps to run the project locally:
@@ -24,7 +29,7 @@ Follow these steps to run the project locally:
 
 4. **Run the Streamlit App**
    ```bash
-   streamlit run app.py
+   streamlit run app2.py
    ```
 
 
